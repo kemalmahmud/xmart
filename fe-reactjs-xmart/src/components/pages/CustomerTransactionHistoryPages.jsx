@@ -97,7 +97,7 @@ export default function CustomerTransactionHistoryPages() {
       ) : (
         <div className='overflow-x-auto table-wrapper'>
           <Typography className='mb-8 text-3xl font-semibold text-center text-black'>
-            History Transaksi X-Mart
+            Your Transaction History
           </Typography>
           <div className='overflow-auto max-h-96'>
             <table className='border border-collapse border-black table-auto'>

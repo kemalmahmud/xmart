@@ -58,7 +58,7 @@ export default function Transaction() {
                   {transaction.rfid}
                 </td>
                 <td className='px-4 py-2 border border-black'>
-                  {transaction.product_name}
+                  {transaction.productName}
                 </td>
                 <td className='px-4 py-2 border border-black'>
                   Rp.{transaction.unitPrice}
